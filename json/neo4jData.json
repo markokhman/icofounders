@@ -17,11 +17,113 @@
                         "lastname":"Trinity",
                         "website": "https://trinity.tech"
                     }
+                },{
+                    "id": "3",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Guangfeng Zhang"
+                    }
+                },{
+                    "id": "4",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Fengping Yi"
+                    }
+                },{
+                    "id": "5",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Yang Li"
+                    }
+                },{
+                    "id": "6",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Will Wei Wu"
+                    }
+                },{
+                    "id": "7",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Lola XIE"
+                    }
+                },{
+                    "id": "8",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Dominic Yu Zhao"
+                    }
+                },{
+                    "id": "9",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"JC XU"
+                    }
+                },{
+                    "id": "10",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Zhoudong Ji"
+                    }
+                },{
+                    "id": "11",
+                    "labels": ["User"],
+                    "properties": {
+                        "lastname":"Yanbo Li"
+                    }
                 }],
                 "relationships": [{
                     "id": "1",
                     "type": "FOUNDER",
                     "startNode": "1",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "2",
+                    "type": "CO-FOUNDER",
+                    "startNode": "3",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "3",
+                    "type": "CO-FOUNDER",
+                    "startNode": "4",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "4",
+                    "type": "CORE DEVELOPER",
+                    "startNode": "5",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "5",
+                    "type": "CORE DEVELOPER",
+                    "startNode": "6",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "6",
+                    "type": "Chief Spokeswoman",
+                    "startNode": "7",
+                    "endNode": "2",
+                    "properties": {
+                        "proof": "https://trinity.tech"
+                    }
+                },{
+                    "id": "7",
+                    "type": "Community Manager",
+                    "startNode": "8",
                     "endNode": "2",
                     "properties": {
                         "proof": "https://trinity.tech"
